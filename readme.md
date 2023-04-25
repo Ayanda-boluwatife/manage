@@ -2,7 +2,7 @@
 
 This is the project from my 2022 Tailwind Crash Course on YouTube.
 
-![Alt text]()
+![Alt text](./design/desktop-design.jpg)
 
 # Usage
 
